@@ -23,6 +23,11 @@ from sklearn.model_selection import train_test_split
 
 
 class solver():
+    
+    """
+    this class takes the name of a data set and its path, trains an xgboost on it. It can also optimize the xgboost hyper parameters using Bayesian Optimization
+    """
+    
     def __init__(self, file_name, file_location = None):
 
         self.preped_data = False
