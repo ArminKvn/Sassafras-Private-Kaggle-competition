@@ -1,4 +1,4 @@
-# Sassafras Private Kaggle competition
+# Sassafras Private Kaggle competition Using XGBoost
  Predict Values from Fully Simulated Dataset:
 Sassafras was a private Kaggle Competition held by Professor Lloyd Elliot
 
